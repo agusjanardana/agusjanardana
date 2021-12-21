@@ -1,1 +1,4 @@
-![Bagus' GitHub stats](https://github-readme-stats.vercel.app/api?username=agusjanardana&show_icons=true&theme=radical)
+## Github Stats
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agusjanardana&show_icons=true&theme=shades-of-purple" alt="Bagus' GitHub Stats" />
+</a>
