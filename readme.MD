@@ -1,5 +1,5 @@
 ## Hello !
-My name is Bagus. Im an entry level of Software Engineer. Mostly, i focused on Backend Developer. I Have been worked in various company:
+My name is Bagus. Im a mid level of Software Engineer. Mostly, i focused on Backend Developer. I Have been worked in various company:
 1. Intern at Icube By Sirclo as Fullstack Engineer ( Stack; Magento 2, 6 Month Internship)
 2. Research Team/Backend Engineer at Telkom University ( Stack; Golang, Php, Flutter, NextJS, Angular )
 3. Backend Engineer at PT. Sinergi Merah Putih ( Stack; Javascript, Golang, Python, NextJS).
