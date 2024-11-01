@@ -1,5 +1,10 @@
 ## Hello !
-My name is I Gde Bagus Janardana Abasan. Just a student from Telkom University who curious on how Software Engineer works :))
+My name is Bagus. Im an entry level of Software Engineer. Mostly, i focused on Backend Developer. I Have been worked in various company:
+1. Intern at Icube By Sirclo as Fullstack Engineer ( Stack; Magento 2, 6 Month Internship)
+2. Research Team/Backend Engineer at Telkom University ( Stack; Golang, Php, Flutter, NextJS, Angular )
+3. Backend Engineer at PT. Sinergi Merah Putih ( Stack; Javascript, Golang, Python, NextJS).
+
+I have been making some backend/frontend for national use-case and big load request. Nice to meet you !
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2d2b55)
